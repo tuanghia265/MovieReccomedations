@@ -1,0 +1,4 @@
+HOW TO RUN THIS APP:
+    - Step 1: Run "pip install -r requirements.txt",
+    - Step 2: Run "jupyter notebook"
+    - Step 3: Run "python main.py"
